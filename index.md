@@ -18,14 +18,13 @@
 - 语言: C/C++， MATLAB， VHDL， LATEX  
 - 软件/操作系统:Linux(ubuntu)， MATLAB， Office， VIM   
 - 算法库: LEDA –Library for Efficient Data Types and Algorithms  
-- 数学规划优化器： gurobi   
+- 数学规划优化器： gurobi
 ### 英语
 - CET4 466 2017.06
-- CET6 461 2018.06    
+- CET6 461 2018.06
 ### 奖励
-- 中国科学技术大学优秀学生奖学金 2018.12.01  
+- 中国科学技术大学优秀学生奖学金 2018.12.01
 ### 实习经历
-
 #### 中国科大 VLSI 架构和 CAD 实验室 2018.06 –   
 - 参与实验室组会讨论及实验室相关讲座报告  
 - 基于 gurobi 与 LEDA 复现论文算法： UNISM: Unified Scheduling and Mapping for General Networks on
