@@ -19,7 +19,7 @@
 - 软件/操作系统:Linux(ubuntu)， MATLAB， Office， VIM   
 - 算法库: LEDA –Library for Efficient Data Types and Algorithms  
 - 数学规划优化器： gurobi   
-- 
+
 ### 英语
 - CET4 466 2017.06
 - CET6 461 2018.06
